@@ -1,0 +1,27 @@
+## Files included
+1)	BarwithTurtle.py - A Bar chart program using turtle (“Turtle” is a Python feature like a drawing board, which lets us command a turtle to draw) and pandas library for reading csv - python 3.6.4
+2)	Data.xlsx – Sample file used for input data.
+
+## Pre-requisites 
+- Install pandas using pip
+pip install pandas
+- Install python 3.6
+https://www.python.org/downloads/release/python-3610/
+
+## Steps to execute the program
+
+BarwithTurtle.py (python 3.6)
+
+- Execute the program using “python idle 3.6” (available with python installation) / IDE such as Pycharm for ease of use.
+- Using IDLE 3.6.
+
+Step 1) Open IDLE 3.6 from python installation location.
+Step 2) Open the file BarwithTurtle.py from its location on the file.
+File > Open > path-to-file > BarwithTurtle.py
+Step 3) Press F5 (or got to Run > Run Module) to run the code.
+Step 4) User input prompt appears for excel data file. Enter the location of the excel file “AbsoluteOrRelative/Path/To/ExcelSheet/Filename.xlsx”.
+
+- We see a GUI with a turtle drawing the bar chart and we can see a ‘save’ option on the GUI for saving the chart if needed.
+Please find a sample from the actual output from the bar graph below 
+ 
+
