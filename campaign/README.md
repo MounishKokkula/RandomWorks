@@ -29,7 +29,7 @@ Assumptions and behaviours:
     - products_list
         [{"product_name":"apple_iphone", "campaign_days": 10, "start_date": ""]
 
-        # TODO possible improvements
+        TODO possible improvements
         [{"product_name":"apple_iphone", "campaign_days": 10, "start_date": "",
          "region":<geographical region to market lat/long>, "device":<mobile/desktop>, "url":<campaign_url>}
         ]
