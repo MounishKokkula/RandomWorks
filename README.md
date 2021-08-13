@@ -27,3 +27,21 @@ Methods:
                         ii) across the supplied input dates
 #### program:test_weather.py
 The file contains test cases for flatten_array.py
+
+
+### Campaign Scheduling (python 3.6, pandas, Unittest, Test Driven Developement[TDD])
+
+A "Campaign" is the top-level advertising unit. Among other things, a campaign
+will have a unique name, a start date, and end date.
+"CampaignScheduler" service class can be used to store a set of campaigns. 
+Each campaign being scheduled should have a unique name, a start date, and an end date.
+
+Class: CampaignScheduler
+
+Methods: 
+1. schedule_campaign(campaign) This function adds a new campaign to the scheduler.
+2. find_gaps() This function returns a list of date ranges that are not covered by the
+current set of scheduled campaigns.
+
+Unittest:
+TDD approach is followed in this program
