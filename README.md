@@ -4,7 +4,7 @@ This repository includes the following programs/projects
 ### Bar chart using turtle(python)
 A Bar chart program using turtle (“Turtle” is a Python feature like a drawing board, which lets us command a turtle to draw) and pandas library for reading csv - python 3.6.4
 
-
+-------------------------------------------
 ### ArrayOperations (python, unnittest)
 The directory contains a program that could be used as a utility library for array operations.
 
@@ -15,6 +15,7 @@ Methods:
 #### program:test_flatten_array.py
 The file contains test cases for flatten_array.py
 
+-------------------------------------------
 
 ### Weather(python, pandas, numpy, csv, unnittest)
 The directory contains a program to analyze weather data from csv file.
@@ -31,6 +32,7 @@ Methods:
 #### program:test_weather.py
 The file contains test cases for flatten_array.py
 
+-------------------------------------------
 
 ### Campaign Scheduling (python 3.6, pandas, Unittest, Test Driven Developement[TDD])
 
